@@ -5,4 +5,4 @@
   ```
   npm install
   ```
-  and see the [guide](https://github.com/vxggangxv/redux-toolkit-saga-combinator).
+  and see the [guide](https://github.com/vxggangxv/redux-toolkit-saga-combinator/tree/master/npm-package#readme).
