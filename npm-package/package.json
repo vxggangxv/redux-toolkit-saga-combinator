@@ -7,7 +7,10 @@
     "url": "https://github.com/vxggangxv/redux-toolkit-saga-combinator"
   },
   "author": "Hyejun Kang <toxnsldxn@gmail.com>",
-  "homepage": "https://github.com/vxggangxv/redux-toolkit-saga-combinator",
+  "homepage": "https://github.com/vxggangxv/redux-toolkit-saga-combinator#readme",
+  "bugs": {
+    "url": "https://github.com/vxggangxv/redux-toolkit-saga-combinator/issues"
+  },
   "license": "MIT",
   "peerDependencies": {
     "@reduxjs/toolkit": "^1.6.1",
