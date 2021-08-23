@@ -1,7 +1,12 @@
 {
   "name": "redux-toolkit-saga-combinator",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "A convenient module to use redux-toolkit with redux-saga",
+  "keywords": [
+    "Redux",
+    "Redux-tookit",
+    "Redux-saga"
+  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/vxggangxv/redux-toolkit-saga-combinator"
