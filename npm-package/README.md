@@ -44,7 +44,7 @@
   }
 
   export default slice.reducer;
-```
+  ```
 
 ## License
 
