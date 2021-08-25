@@ -1,6 +1,6 @@
 {
   "name": "redux-toolkit-saga-combinator",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "A convenient module to use redux-toolkit with redux-saga",
   "keywords": [
     "Redux",
