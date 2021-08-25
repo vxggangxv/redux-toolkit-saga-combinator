@@ -5,7 +5,10 @@
   "keywords": [
     "Redux",
     "Redux-tookit",
-    "Redux-saga"
+    "Redux-saga",
+    "Redux-tooklit-saga",
+    "Redux-tooklit-saga-combinator",
+    "toolkit"
   ],
   "repository": {
     "type": "git",
